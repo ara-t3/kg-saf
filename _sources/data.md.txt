@@ -25,8 +25,7 @@ JDSet includes datasets derived from **well-known knowledge graphs** and domain-
   Cultural heritage ontology and KG covering Italian assets. Supports advanced reasoning with `SROIQ` DL fragment.  
 
 - **WHOW** – [Link](https://whowproject.eu/)  
-  Ontology for the World Heritage and cultural objects, designed for semantic reasoning and ML experiments.  
-
+  WHOW (Water Health Open knoWledge) project the first European knowledge graph on water consumption and quality, health parameters and dissemination of diseases.
 - **ERA** – [Link](hhttps://www.era.europa.eu/domains/registers/era-knowlege-graph_en)  
   Vocabulary/Ontology governed by the European Union Agency for Railways (https://www.era.europa.eu/). It represents the concepts and relationships linked to the sectorial legal framework and the use cases under the Agency´s remit
 
